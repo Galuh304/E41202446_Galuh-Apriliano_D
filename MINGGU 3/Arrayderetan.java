@@ -1,13 +1,10 @@
 import java.util.*;
 public class Arrayderetan {
     public static void main(String[] args) {
-
         Scanner input = new Scanner(System.in);
         int jumlahderet = 0;
-
-        System.out.print("Masukkan Jumlah Deret :");
+        System.out.print("Masukkan Jumlah Deret = ");
         jumlahderet = input.nextInt();
-
         int [] deretarray = new int [jumlahderet];
 
         for(int i =0; i < jumlahderet; i++){
