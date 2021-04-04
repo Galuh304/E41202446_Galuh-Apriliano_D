@@ -5,7 +5,7 @@ public class DoWhile
     Scanner input=new Scanner(System.in);
     public void counter()
     {
-        int hitung=1;
+        int hitung=2;
         do
         {
             System.out.print("  "+hitung);
