@@ -16,7 +16,7 @@ public class DoWhile
     public static void main(String[] args)
     {
         System.out.println("         Do__While         ");
-        System.out.println("Bilangan kelipatan 2 (1-100)");
+        System.out.println("Bilangan kelipatan 2 (2-100)");
         System.out.println("============================");
         DoWhile mulai=new DoWhile();
         mulai.counter();
